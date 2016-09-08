@@ -1,4 +1,4 @@
-# Peronsal Website
+# Personal Website
 
 Link to the website: http://mateokaradza.from.hr/
 
